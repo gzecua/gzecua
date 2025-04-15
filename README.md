@@ -1,7 +1,7 @@
 # about me
 
-- studied physics at the [RWTH Aachen, Germany](https://www.particle-theory.rwth-aachen.de/cms/~fywf/Particle-Theory/)
-- currently phd studies at the [Babeș-Bolyai University, Romania](https://www.cs.ubbcluj.ro/) on [Galois connections](https://en.wikipedia.org/wiki/Galois_connection) in finite [abelian groups](https://en.wikipedia.org/wiki/Abelian_group) and their applications to enumerative problems and beyond.
+- studied physics at the [RWTH Aachen, Germany](https://rwth-aachen.de)
+- currently phd studies at the [Babeș-Bolyai University, Romania](https://www.cs.ubbcluj.ro/) on [Galois connections](https://en.wikipedia.org/wiki/Galois_connection) in finite abelian groups and their applications to enumerative problems and beyond.
 
 # interests
 
