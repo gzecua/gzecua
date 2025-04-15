@@ -8,6 +8,7 @@
 - understanding enumeration and combinatorial problems and looking for solutions with the help of algebraic methods
 - making tools for language recognition and representation
 - abstract interpretation of programs
+- nurbs curves
 
 # favorite theorems and books
 
