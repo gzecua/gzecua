@@ -7,21 +7,21 @@
 
 - understanding enumeration and combinatorial problems and looking for solutions with the help of algebraic methods
 - making tools for language recognition and representation
-- language learning (currently hungarian and nahuatl, next maya)
+- abstract interpretation of programs
 
 # favorite theorems and books
 
 - [Pólya enumeration](https://en.wikipedia.org/wiki/P%C3%B3lya_enumeration_theorem)
 - [Chomsky-Schützenberger enumeration](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Chomsky-Sch%C3%BCtzenberger_(combinatoire))
-- Knuth#s *TAOPC* and *3:16*
-- Larry Gonick's cartoon guide to the computer
+- Knuth's *TAOPC* and *3:16*
+- Larry Gonick's *Cartoon guide to the computer*
 - all short stories by Borges and Cortázar
 
 # otherwise
 
 - swimming aficionado, special interest for the butterfly stroke
 - cooking old traditional recipes
-- hungarian learner (it's going to take a lifetime)
+- learning Hungarian
 
 # academics
 
